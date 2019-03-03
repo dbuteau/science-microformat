@@ -45,13 +45,13 @@ If not given, or not corresponding to the following list CS=0 and ignore all oth
 **rel-tag:** contain science domain the publication concern. eg: biology, physic, chemistry etc. 
 
 **rel-authors: (mandatory)** describe the content following will be a list of all author informations, if empty or not provided CS -1 modificator
-    - **rel-author-name: (mandatory)** Firstname and Lastname of the author
-    - **rel-author-position:** professor, chief, etc
-    - **rel-author-specialization: (mandatory)** if unrelated to rel-tag CS-1 modificator
-    - **rel-author-organization:** academia, laboratory, industry
-    - **rel-author-org-name:** the name of the organization author work for
-    - **rel-author-ref:** link to the author presentation from their university/laboratory/enterprise/work place website
-    - **rel-author-interest-conflicts:** declaration of interest conflict from the author. If none given or empty consider there is no interest conflict declared. **Honest interest conflict declaration must not be penalized to encourage this behavior**
+- **rel-author-name: (mandatory)** Firstname and Lastname of the author
+- **rel-author-position:** professor, chief, etc
+- **rel-author-specialization: (mandatory)** if unrelated to rel-tag CS-1 modificator
+- **rel-author-organization:** academia, laboratory, industry
+- **rel-author-org-name:** the name of the organization author work for
+- **rel-author-ref:** link to the author presentation from their university/laboratory/enterprise/work place website
+- **rel-author-interest-conflicts:** declaration of interest conflict from the author. If none given or empty consider there is no interest conflict declared. **Honest interest conflict declaration must not be penalized to encourage this behavior**
 
 **rel-quotation:** list of other publications referencing to this work, if not present or empty rel-quotation bot must consider no quotation exist. 
 If no quotation exist CS -1 modificator. 
