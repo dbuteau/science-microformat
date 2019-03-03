@@ -13,9 +13,10 @@ Where:
 - 0: a study not pair checked or poorly documented or poorly documented meta-analysis
 - 1: a study containing verifiable facts, or poorly documented meta-analysis
 - 2: a well documented and pair checked study
-- 3: a meta-analysis really well documented
-In the following the credibility score will be noted CS.
-It will be calculated depending of presence and quality of contents given in following microformat
+- 3: a meta-analysis really well documented  
+
+In the following the credibility score will be noted CS.  
+It will be calculated depending of presence and quality of contents given in following microformat.  
 Unless contrary is mentioned, every publication start at CS=0 for calculation
 
 ## Proposed Microformat
