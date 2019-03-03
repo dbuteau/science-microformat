@@ -9,7 +9,7 @@ Workout a better web semantic parsing allowing bot to recognize and sort scienti
 ## Credibility score:
 Credibility score go from -1 to 3. 
 Where: 
-- -1: represent really poor credibility this can be considered as clearly a fake news
+- -1: represent really poor credibility this can be considered as clearly a fake news or bad science
 - 0: a study not pair checked or poorly documented or poorly documented meta-analysis
 - 1: a study containing verifiable facts, or poorly documented meta-analysis
 - 2: a well documented and pair checked study
