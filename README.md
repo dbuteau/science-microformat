@@ -58,9 +58,11 @@ If no quotation exist CS -1 modificator.
 If more than 5 quotation is listed and available from certified domain CS+1 modificator
 
 **rel-source:** used for list links to other publications as source. 
-If not given, or link does not refer to an available existing resource from certified domain, credibility score=0. 
-If given and available from certified domain CS+1 modificator
-See certified domain section, each domain have its own score. The score of the domain can affect the CS. If the domain score is below 2,5 or not provided then CS-1 modificator
+If not given, or link does not refer to an available existing resource from certified domain, credibility score=0 and ignore all other modificators.  
+If given and available from certified domain CS+1 modificator.  
+See certified domain section, each domain have its own score.  
+The score of the domain can affect the CS.  
+If the domain score is below 2,5 or not provided then CS-1 modificator
 
 ## Certified Domains
 See: https://www.qoam.eu/journals
